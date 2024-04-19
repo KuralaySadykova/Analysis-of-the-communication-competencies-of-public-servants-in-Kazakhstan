@@ -20,7 +20,7 @@ The project includes three scripts **surveycental.py**, **surveylocal.py**, and 
 
 This script is an exploratory analysis of data on the assessment and improvement of communication competencies among public servants in central government agencies. 
 1.	The script begins by asking respondents for general and demographic information such as their workplace, gender, age, and average work experience. This information is useful for analyzing and interpreting survey results.
-2.	The script analyzes the correlation between work experience and self-assessment of communication competencies, creating a graph (corr_exper_asses_central.png) to demonstrate this.
+2.	The script analyzes the correlation between work experience and self-assessment of communication competencies, creating a graph (corr_exper_asses_central.png) ![Мое фото](corr_exper_asses_central.png) to demonstrate this.
 3.	The script will assess understanding of professional communication. When developing communication strategies and deciding how to communicate with the public, public servants must correctly define and interpret communicative competencies.
 4.	In the following section, public servants from central government bodies assess communication competencies at various levels (general, self-assessment, colleagues, and principal). The comparative result is shown in graph comm_level_central.png.
 5.	The script then defines the communication approach of central government agencies and shows the results in the approaches_central.png diagram.
