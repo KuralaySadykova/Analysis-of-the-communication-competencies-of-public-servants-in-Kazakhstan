@@ -8,7 +8,7 @@ The project's main goal is to show how survey results can be processed and analy
 ## Input Data
 
 For the analysis, two main Excel files containing survey results were used.
-The !(ЦГО рус.xlsx) includes the results of a survey of public servants from central government bodies.
+The ЦГО рус.xlsx includes the results of a survey of public servants from central government bodies.
 The МИО рус.xlsx contains the results of a survey conducted among public servants from local executive bodies.
 The surveys were conducted in Russian and then translated into English for easier analysis and comprehension.
 
