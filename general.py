@@ -92,7 +92,7 @@ plt.pie(sizes, labels=labels, colors=colors, autopct='%1.1f%%', startangle=140)
 plt.title('Feedback check')
 
 # Chart display
-plt.axis('equal')  # чтобы диаграмма была кругом
+plt.axis('equal')  
 # Saving the chart
 plt.savefig('feedback.png')
 plt.show()
