@@ -19,13 +19,13 @@ The project includes three scripts **surveycental.py**, **surveylocal.py**, and 
 ## Script 1: surveycental.py
 
 This script is an exploratory analysis of data on the assessment and improvement of communication competencies among public servants in central government agencies. 
-1.	The script begins by asking respondents for general and demographic information such as their workplace, gender, age, and average work experience. This information is useful for analyzing and interpreting survey results.
+1.	At the beginning, the script examines general and demographic information about the respondents, such as their workplace, gender, age, and average work experience. This information is useful for analyzing and interpreting survey results.
 2.	The script analyzes the correlation between work experience and self-assessment of communication competencies, creating a graph *(corr_exper_asses_central.png)* to demonstrate this.
-3.	The script will assess understanding of professional communication. When developing communication strategies and deciding how to communicate with the public, public servants must correctly define and interpret communicative competencies.
-4.	In the following section, public servants from central government bodies assess communication competencies at various levels (general, self-assessment, colleagues, and principal). The comparative result is shown in graph *comm_level_central.png*.
+3.	The script assesses understanding of professional communication. When developing communication strategies and deciding how to communicate with the public, public servants must correctly define and interpret communicative competencies.
+4.	In the following section, the script gives the results of the assessment by public servants from central government bodies of the degree of communication competencies at various levels (general, self-assessment, colleagues, and principal). The comparative result is shown in graph *comm_level_central.png*.
 5.	The script then defines the communication approach of central government agencies and shows the results in the *approaches_central.png* diagram.
-6.	Then examines the Pearson correlations and produces a p-value between the general score and the other communication competencies levels. The results are stored in the files *corr_gen_self_central.png*, *corr_gen_principal_central.png*, and *corr_gen_colleagues_central.png*.
-7.	The figure *methods_for_improving_central.png* displays the results of the survey on how public servants can improve their communicative competencies.
+6.	Then the script examines the Pearson correlations and produces a p-value between the general score and the other communication competencies levels. The results are stored in the files *corr_gen_self_central.png*, *corr_gen_principal_central.png*, and *corr_gen_colleagues_central.png*.
+7.	Then the script identifies the respondents’ opinions on methods for improving the communication competencies of public servants and displays the results in the figure *methods_for_improving_central.png*.
 8.	The script evaluates the effectiveness of various communication methods, including in person meetings, telecommunications, email correspondence, and textual responses to requests. The results are shown in the *communication_means_central.png* diagram.
 
 ## Script 2: surveylocal.py
@@ -33,11 +33,11 @@ This script is an exploratory analysis of data on the assessment and improvement
 The second script performs the same actions as the first script. As previously stated, the questions for the two categories were identical, allowing for comparisons of results across levels of government. Thereby:
 1.	The script begins by gathering general demographic information from respondents, including their workplace, gender, age, and average work experience.
 2.	The script evaluates the correlation between work experience and self-assessment of communication competencies, creating a graph *(corr_exper_asses_local.png)* to demonstrate this.
-3.	The script will assess local government officials' understanding of professional communication.
-4.	In the following section, public servants from local executive bodies assess communication competencies at various levels (general, self-assessment, colleagues, and principal). The comparative result is shown in figure *comm_level_local.png*.
+3.	The script assesses local government officials' understanding of professional communication.
+4.	In the following section, the script gives the results of the assessment by public servants from local government bodies of the degree of communication competencies at various levels (general, self-assessment, colleagues, and principal). The comparative result is shown in graph *comm_level_local.png*.
 5.	The script determines the communication approach for local executive bodies and displays the results in the *approaches_local.png* diagram.
 6.	Then examines the Pearson correlations and produces a p-value between the general score and the other communication competencies levels. The results are stored in the files *corr_gen_self_local.png*, *corr_gen_principal_local.png*, and *corr_gen_colleagues_local.png*.
-7.	*The figure methods_for_improving_local.png* displays the results of a survey on how public servants can improve their communication competencies.
+7.	Then the script identifies the respondents’ opinions on methods for improving the communication competencies of public servants and displays the results in the figure *methods_for_improving_local.png*.
 8.	The script evaluates the effectiveness of various communication methods, including in person meetings, telecommunications, email correspondence, and textual responses to requests. The results are shown in the *communication_means_local.png* diagram.
 
 ## Script 3: general.py
@@ -45,7 +45,7 @@ The second script performs the same actions as the first script. As previously s
 This script aims to identify and analyze common key trends in the communication competencies of public servants in Kazakhstan. 
 1. The script reads survey results from two previous files, merges them into a single DataFrame, and saves it as *merged_file.xlsx*.
 2. The script analyzes the sample's general characteristics, including participant count, gender distribution, and age range.
-3. The script creates a bar chart *(time_to_communication.png)* to visualize the amount of time government employees spend communicating.
+3. The script creates a bar chart *time_to_communication.png* to visualize the amount of time government employees spend communicating.
 4. The script analyzes feedback to ensure accurate interpretation. To accomplish this, it creates a pie chart, *feedback.png*, which shows the percentage of various types of responses to the corresponding question.
 
 ## Analysis/discuss the results
