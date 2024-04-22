@@ -3,6 +3,8 @@
 This analysis is based on the results of a survey that was conducted by a doctoral student at the Academy of Public Administration under the President of the Republic of Kazakhstan among public servants of central government bodies (sampling 446 public servants) and local executive bodies (sampling 1332 public servants), in order to identify key aspects of communication between government bodies with the population and the level of communicative competence of civ public servants.
 Surveying public servants is one of the research methods used in social sciences and public service research to collect useful data for analyzing and understanding various aspects of public administration. Survey research on government officials can help identify key trends, challenges, and opportunities in public administration.
 The survey questions were the same for public servants in central government and local executive bodies. This was done to compare the results across different levels of government agencies.
+
+
 The project's main goal is to show how survey results can be processed and analyzed to determine the level of communication competencies of public servants in Kazakhstan, to gain an understanding of the definition and importance of communication competencies, to identify important means of communication with the population, and to determine how government agencies approach communications. This project's goal is not to study the process of organizing a survey. To draw more accurate conclusions, consider the study's context, the number of respondents, and the data collection methodology. At the same time, some findings are critical for analysis.
 
 ## Input Data
