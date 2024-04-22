@@ -89,6 +89,7 @@ c. The **corr_gen_principal_central.png** graph depicts the relationship between
 ![](corr_gen_principal_central.png)  
 When comparing the **corr_gen_principal_local.png** graph to the previous one, the following can be noticed: The Pearson correlation coefficient (r) is higher in local bodies than in central ones (0.35 in central, 0.42 in local), indicating a stronger link between principal communication competency assessments and general communication competencies at the local level. The P-value also fell, indicating that the correlation was more statistically significant in local government agencies. The data points continue to vary around the trend line, but the trend remains positive in both local and central government. The results of these comparisons may indicate that ratings of general communication competencies and principal s are more consistent at the local level.
 ![](corr_gen_principal_local.png) 
+
 6. This analysis is based on a study of data on methods for improving communication competencies.
 
 a.	The **methods_for_improving_central.png** bar graph depicts the various methods for improving public servants' communication competencies at the central level. Trainings are the most popular of the proposed methods, accounting for 40.58% of total answers. This suggests that training is the most effective method for developing communication competencies among public servants. The next most popular method, with 25.11% of responses, is to create a unified database, which can include creation of a unified base. Forums/Conferences account for 13.68%, emphasizing the value of sharing knowledge and experience in the professional community. Internships are rated as a useful tool for competencies development, accounting for 13.45%. Handbooks/Manuals are the least popular method, accounting for 7.17 percent.
@@ -97,13 +98,16 @@ a.	The **methods_for_improving_central.png** bar graph depicts the various metho
 b. Local authorities' performance in **methods_for_improving_local.png** differs only slightly in percentage differences. Comparisons reveal that overall preferences are distributed in a similar manner. 
 ![](methods_for_improving_local.png)
 Based on this, we can conclude that practical training and active participation in professional events are preferable for the improving of communication competencies. Independent study of materials is perceived as less effective.
+
 7. The **communication_means_central.png** bar graph depicts the effectiveness of various forms of communication means in central government agencies. All four communication means – in person, telecommunication, email correspondence, and textual response – have similar average ratings, ranging from 3.5 to 4.5 on the effectiveness scale. This indicates that each product is regarded as fairly effective, with no significant differences in respondents' perceptions of its efficacy.
 ![](communication_means_central.png)
 The graph of local bodies **communication_means_local.png** with the graph of central bodies show similarities in indicators. Both graphs have the same levels of communication means.
 ![](communication_means_local.png)
 The lack of clear differences between the columns could imply that there is no universal preference for any one communication means within government agencies, and that a variety of communication mean are valued and used equally.
+
 8. Using the combined center-region results in **time_to_communication.png**, you can analyze public servants' communication time. The majority of respondents (21.2%) stated that they spend 50 percent of their time; 14.6% and 13.1% said they spend 70 and 80% of their time, respectively. 10.5% devote 100% of their time. This analysis can be useful for scheduling work time and estimating how much time should be set aside for communication during the work process.
 ![](time_to_communication.png)
+
 9. The **feedback.png** pie chart shows respondents' responses to the question of ensuring the recipient understands and interprets their response after sending an appeal, request, or information. Almost always check: 68.2% of respondents said they always check the recipients' understanding of their responses, indicating a high level of involvement and responsibility. 26.5% of respondents said they occasionally check recipients' understanding when they have the time, which could indicate a lack of resources or time for meaningful feedback. A small proportion of respondents (5.3%) stated that they never check feedback because they do not have the time, which could indicate a heavy workload or a lack of feedback procedures. 
 ![](feedback.png)
 This data can be used to analyze an organization's communication culture and the possible need to develop strategies to improve feedback and understanding of communications.
